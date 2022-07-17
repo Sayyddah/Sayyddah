@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Saidat!
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, AI and Cognitive Science
 - 🌱 I’m currently learning supervised and unsupervised learning models in Python
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me by sending an email to: saidat.ibiribigbe@gmail.com
 
 <!---
